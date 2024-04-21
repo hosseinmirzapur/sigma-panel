@@ -9,7 +9,7 @@ const navigation = (): VerticalNavItemsType => {
       path: '/dashboards/ecommerce'
     },
     {
-      title: 'بازگشت به وبسایت',
+      title: 'رفتن به وبسایت',
       icon: 'tabler:arrow-back-up',
       externalLink: true,
       path: 'https://sigma-world.vercel.app'
@@ -101,7 +101,7 @@ const navigation = (): VerticalNavItemsType => {
       path: '#'
     },
     {
-      title: 'تهیه و تنظیم قرارداد بین المللی',
+      title: 'قرارداد بین المللی',
       icon: 'tabler:writing',
       path: '#'
     },
