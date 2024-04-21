@@ -12,7 +12,8 @@ const navigation = (): VerticalNavItemsType => {
       title: 'رفتن به وبسایت',
       icon: 'tabler:arrow-back-up',
       externalLink: true,
-      path: 'https://sigma-world.vercel.app'
+      path: 'https://sigma-world.vercel.app',
+      openInNewTab: true
     },
     {
       sectionTitle: 'تنظیمات کلی'
